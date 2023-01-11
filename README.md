@@ -1,4 +1,4 @@
-# customer_segmentation_RFM
+# Customer_Segmentation_RFM
 #### Customer segmentation based on RFM(Recency, Frequency, and Monetary) analysis is a marketing framework that is used to understand and analyze customer behaviour. 
 #### The RFM Analysis will help the businesses to segment their customer base into different homogenous groups so that they can engage with each group with different targeted marketing strategies.
 ## Problem Statement
